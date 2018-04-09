@@ -4,7 +4,7 @@
 
 [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/DSX.png" height="150"/>](http://datascience.ibm.com/) 
 
-In this lab, you will use IBM's Data Science Experience (DSX) to create a Jupyter IPython notebook to examine the concepts of Principal Component Analysis in Machine Learning.   You will build a models based upon the matrix data an analyse their features.
+This lab features the new Watson Studio Neural Network modeler, and Experiment Assistant to build, train, and test a Convolutional Neural Network to classify images.
 
 ## Objectives:
 
