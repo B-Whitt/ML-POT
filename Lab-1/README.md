@@ -1,10 +1,10 @@
-# Setting up your first DSX notebook
+# Breast cancer detection with XGBoost and IBM Watson Machine Learning
 
 ## Introduction:
 
 [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/DSX.png" height="150"/>](http://datascience.ibm.com/) [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/jupyter.png" height="150"/>](http://jupyter.org/index.html)
 
-In this lab, you will use IBM's Data Science Experience (DSX) to create a Jupyter IPython notebook to examine the principles of Machine Learning using the Titanic dataset.   You will build a model based upon the actual Titanic disaster to predict who survived -- and who did not.
+In this lab, you will use a Jupyter Notebook and the XGBoost library for breast cancer detection. The Jupyter notebook contains steps and code to get data from the IBM Watson Studio Community, create a predictive model, and start scoring new data. This notebook introduces commands for getting data and for basic data cleaning and exploration, model training, model persistance to Watson Machine Learning repository, model deployment, and scoring.
 
 ## Objectives:
 
@@ -12,10 +12,9 @@ Upon completing the lab, you will know how to:
 
 1. Create a Jupyter IPython notebook from a URL
 1. Load data from a URL
-1. Examine the data in PixieDust
-1. Examine and shape the data for use in an ML model
-1. Build a Pipeline for a Logistic Regression model
-1. Tune the model for maximal effectiveness
+1. Build an XGBoost Model
+1. Deploy the Model
+1. Score using the Model. 
 
 ## Instructions:
 
