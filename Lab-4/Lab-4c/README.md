@@ -21,16 +21,16 @@ Upon completing the lab, you will know how to:
 
 ### Step 1.  Log into your [Watson Studio](http://datascience.ibm.com/) account, then select `View All Projects`, then select the project you created at the beginning of this proof of technology.
 
-> <img src="https://github.com/bleonardb3/WM/blob/master/Lab-3/Images/Projects%20Tab.png"/>
+> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-4/Lab-4c/Images/Projects%20Tab.png"/>
 
 
 ### Step 2.  Click the `Add to project link` and then click the `Notebook` link in the top right of your project pane.
 
-> <img src="https://github.com/bleonardb3/WM/blob/master/Lab-3/Images/Add%20Notebook%20to%20Project.png"/>
+> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-4/Lab-4c/Images/Add%20Notebook%20to%20Project.png"/>
 
 ### Step 3.  Create the notebook.
 
-> <img src="https://github.com/bleonardb3/WM/blob/master/Lab-3/Images/Create%20Notebook%20from%20URL.png"/>
+> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-4/Lab-4c/Images/Create%20Notebook%20from%20URL.png"/>
 
 1. Click the `From URL` tab under `New Notebook`.
 1. Give the notebook a name in the `Name` field, for example `Titanic Student` and optionally you can give it a description.
