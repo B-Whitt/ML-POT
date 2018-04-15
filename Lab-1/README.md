@@ -45,7 +45,7 @@ The Object Storage service instance should already exist, having been created wh
 
 > <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Select%20Settings.png"/>
 
-### Step 4. Scroll down to `Associated Services`, the select `Add service` and select `Machine Learning`.
+### Step 4. Scroll down to `Associated Services`, then select `Add service` and select `Machine Learning`.
 
 > <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Add%20Machine%20Learning%20Service.png"/>
 
@@ -68,19 +68,19 @@ The Object Storage service instance should already exist, having been created wh
 ### Step 9. Follow the same process as in steps 4-8, except this time add a Spark service. 
 
 
-### Step 10.  Click the `Add projects` link and then the `Notebook` link. 
+### Step 10.  We are now going to create a new notebook in our project. This notebook will be created from a url that points to the Heart Disease notebook in the github repository. Click the `Add projects` link and then the `Notebook` link as shown below. 
 
 > <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Add%20Notebook.png"/>
 
-### Step 3.  Create the notebook.
+### Step 11.  Create the notebook.
 
-> <img src="https://github.com/jpatter/ML-POT/blob/master/Lab-1/images/DSX-ML-CreateNotebook.PNG"/>
+> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Create%20Notebook%20Lab-1.png"/>
 
 1. Click the `From URL` tab under `Create Notebook`.
-1. Give the notebook a name in the `Name` field, for example `Titanic` and optionally you can give it a description.
-1. In the Notebook URL field, use `https://raw.githubusercontent.com/jpatter/ML-POT/master/Lab-1/TitanicStudent.ipynb`.
-1. Ensure that there is a `Spark Service` selected, then click the `Create Notebook` button on the bottom right of the screen.
+1. Give the notebook a name in the `Name` field, for example `Heart Disease` and optionally you can give it a description.
+1. In the Notebook URL field, use `https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/Heart%20Disease.ipynb`.
+1. Select the free Anaconda environment, then click the `Create Notebook` button on the bottom right of the screen.
 
-### Step 4.  Follow the instructions in the notebook.
+### Step 12.  Follow the instructions in the notebook.
 
-> <img src="https://github.com/jpatter/ML-POT/blob/master/Lab-1/images/DSX-ML-Lab-1.PNG"/>
+
