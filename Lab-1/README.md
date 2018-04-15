@@ -4,7 +4,7 @@
 
 [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/DSX.png" height="150"/>](http://datascience.ibm.com/) [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/jupyter.png" height="150"/>](http://jupyter.org/index.html)
 
-In this lab, you will use a Jupyter Notebook and the XGBoost library for heart disease detection. In addition to training, the notebook also explains how to persist a trained model to IBM Watson Machine Learning repository, deploy the model as a REST service and to predict using the deployed model using the REST APIs.
+In this lab, you will use a Jupyter Notebook to train a model using the XGBoost library to classify whether a person has heart disease or not In addition to training, the notebook also explains how to persist a trained model to the IBM Watson Machine Learning repository, deploy the model as a REST service and to predict using the deployed model using the REST APIs.
 
 In order to train and test the heart disease prediction model, you will be using an open source data set published in the University of California, Irvine (UCI) Machine Learning Repository.
 
@@ -22,11 +22,11 @@ Upon completing the lab, you will know how to:
 1. Vizualize the importance of features that were used to train the model.
 1. Persist a model in Watson Machine Learning repository using Python client library.
 1. Deploy a model for online scoring using the Watson Machine Learning's REST APIs
-`. Score a sample scoring data using the Watson Machine Learning's REST APIs.
+1. Score sample data using the Watson Machine Learning's REST APIs.
 
 ## Instructions:
 
-### Step 1.  Log into your [DSX](http://datascience.ibm.com/) account, then select `View All Projects`, then select the project you created at the beginning of this proof of technology.
+### Step 1.  Log into your [Watson Studio](http://datascience.ibm.com/) account, then select `View All Projects`, then select the project you created at the beginning of this proof of technology.
 
 > <img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/Lab-1/images/DSX-open-project.png"/>
 
