@@ -35,9 +35,9 @@ Upon completing the lab, you will know how to:
 > <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Select%20Watson%20Studio%20Labs.png"/>
 
 The labs in this Proof of Technology will require the following services to be created and associated with your project. 
-•	Object Storage
-•	Watson Machine Learning
-•	Apache Spark  
+1. Object Storage
+1. Watson Machine Learning
+1. Apache Spark  
 
 The Object Storage service instance should already exist, having been created when the Watson Studio Labs (or whatever you named it) project was created. Both the Watson Machine Learning service, and the Apache Spark service need to be created and then associated with the project.  
 
