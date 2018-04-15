@@ -68,7 +68,7 @@ The Object Storage service instance should already exist, having been created wh
 ### Step 9. Follow the same process as in steps 4-8, except this time add a Spark service. 
 
 
-### Step 10.  We are now going to create a new notebook in our project. This notebook will be created from a url that points to the Heart Disease notebook in the github repository. Click the `Add projects` link and then the `Notebook` link as shown below. 
+### Step 10.  We are now going to create a new notebook in our project. This notebook will be created from a url that points to the Heart Disease notebook in the github repository. Click the `Add to projects` link and then the `Notebook` link as shown below. 
 
 > <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Add%20Notebook.png"/>
 
