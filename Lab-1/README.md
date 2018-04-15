@@ -26,9 +26,24 @@ Upon completing the lab, you will know how to:
 
 ## Instructions:
 
-### Step 1.  Log into your [Watson Studio](http://datascience.ibm.com/) account, then select `View All Projects`, then select the project you created at the beginning of this proof of technology.
+### Step 1.  Log into your [Watson Studio](http://datascience.ibm.com/) account, then select `View All Projects`.
 
 > <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/View%20All%20Projects.png"/>
+
+### Step 2.  Select the project you created at the beginning of this proof of technology.
+
+> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Select%20Watson%20Studio%20Labs.png"/>
+
+The labs in this Proof of Technology will require the following services to be created and associated with your project. 
+•	Object Storage
+•	Watson Machine Learning
+•	Apache Spark  
+
+The Object Storage service instance should already exist, having been created when the Watson Studio Labs (or whatever you named it) project was created. Both the Watson Machine Learning service, and the Apache Spark service need to be created and then associated with the project.  
+
+### Step 3.  Click on the project `Settings` tab
+
+> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Select%20Settings.png"/>
 
 ### Step 2.  Click the `add notebooks` link in the top right of your project pane.
 
