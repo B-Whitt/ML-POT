@@ -41,17 +41,17 @@ The labs in this Proof of Technology will require the following services to be c
 
 The Object Storage service instance should already exist, having been created when the Watson Studio Labs (or whatever you named it) project was created. Both the Watson Machine Learning service, and the Apache Spark service need to be created and then associated with the project.  
 
-### Step 3.  Click on the project `Settings` tab
+### Step 3.  Click on the project `Settings` tab.
 
 > <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Select%20Settings.png"/>
 
-### Step 4. Scroll down to `Associated Service`s select `Add service` and select `Machine Learning`
+### Step 4. Scroll down to `Associated Services`, the select `Add service` and select `Machine Learning`.
 
 > <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Add%20Machine%20Learning%20Service.png"/>
 
-### Step 5. Select `New`
+### Step 5. Select `New`.
 
-> <img src="ttps://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Select%20New%20Service.png"/>
+> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Select%20New%20Service.png"/>
 
 ### Step 6. Select the `Lite` plan. 
 
@@ -65,10 +65,12 @@ The Object Storage service instance should already exist, having been created wh
 
 > <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/See%20ML%20in%20Associated%20Services..png"/>
 
+### Step 9. Follow the same process as in steps 4-8, except this time add a Spark service. 
 
-### Step 2.  Click the `add notebooks` link in the top right of your project pane.
 
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-1/images/DSX-add-notebook.png"/>
+### Step 10.  Click the `Add projects` link and then the `Notebook` link. 
+
+> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Add%20Notebook.png"/>
 
 ### Step 3.  Create the notebook.
 
