@@ -76,7 +76,7 @@ The Object Storage service instance should already exist, having been created wh
 
 > <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Create%20Notebook%20Lab-1.png"/>
 
-1. Click the `From URL` tab under `Create Notebook`.
+1. Click the `From URL` tab under `New Notebook`.
 1. Give the notebook a name in the `Name` field, for example `Heart Disease` and optionally you can give it a description.
 1. In the Notebook URL field, use `https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/Heart%20Disease.ipynb`.
 1. Select the free Anaconda environment, then click the `Create Notebook` button on the bottom right of the screen.
