@@ -45,6 +45,27 @@ The Object Storage service instance should already exist, having been created wh
 
 > <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Select%20Settings.png"/>
 
+### Step 4. Scroll down to `Associated Service`s select `Add service` and select `Machine Learning`
+
+> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Add%20Machine%20Learning%20Service.png"/>
+
+### Step 5. Select `New`
+
+> <img src="ttps://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Select%20New%20Service.png"/>
+
+### Step 6. Select the `Lite` plan. 
+
+> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Select%20Lite%20ML.png"/>
+
+### Step 7. Scroll down and click `Create` and then click `Confirm`. Note, you can change the name of the machine learning service or accept the default. 
+
+> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Scroll%20down%20hit%20Create%20and%20then%20Confirm.png"/>
+
+### Step 8. The Machine Learning service that you created should now appear in `Associated Services`. 
+
+> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/See%20ML%20in%20Associated%20Services..png"/>
+
+
 ### Step 2.  Click the `add notebooks` link in the top right of your project pane.
 
 > <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-1/images/DSX-add-notebook.png"/>
