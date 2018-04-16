@@ -18,6 +18,7 @@ Upon completing the lab, you will know how to:
 
 ## Instructions:
 
-### Step 1.  Follow the instructions in the PDF file.
+### Step 1.  Please click on the link below and then press the `Download` button to download the instructions to your machine.
 
-[Watson Machine Learning](WatsonMachineLearning.pdf)
+[Instructions](https://github.com/bleonardb3/ML-POT/blob/master/Lab-2/WatsonMachineLearningv2.pdf).
+
