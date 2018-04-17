@@ -4,34 +4,21 @@
 
 [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/DSX.png" height="150"/>](http://datascience.ibm.com/) 
 
-This lab features the new Watson Studio Neural Network modeler, and Experiment Assistant to build, train, and test a Convolutional Neural Network to classify images.
+This lab features the new Watson Studio Neural Network modeler, and Experiment Assistant to build, train, and test a Convolutional Neural Network to classify images. The dataset used is the CIFAR-10 dataset (Canadian Institute For Advanced Research) is a collection of images that are commonly used to train machine learning and computer vision algorithms. 
 
 ## Objectives:
 
-Upon completing the lab, you will know how to:
+Upon completing the lab, you will: 
 
-1. Create a Jupyter IPython notebook from a URL
-1.
+1. Set up data for the neural network modeler
+1. Become familiar with the neural network modeler  
+1. Become familiar with the Experiement Assistant
+1. Train and deploy a neural network model
+1. Classify images
 
 ## Instructions:
 
-### Step 1.  Log into your [DSX](http://datascience.ibm.com/) account, then select `View All Projects`, then select the project you created at the beginning of this proof of technology.
+### Step 1.  Please click on the link below and then press the `Download` button to download the instructions to your machine.
 
-> <img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/Lab-1/images/DSX-open-project.png"/>
+[Instructions](https://github.com/bleonardb3/ML-POT/blob/master/Lab-3/Neural%20Network%20Design%20Overview%20-%20no%20setup.pdf).
 
-### Step 2.  Click the `add notebooks` link in the top right of your project pane.
-
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-1/images/DSX-add-notebook.png"/>
-
-### Step 3.  Create the notebook.
-
-> <img src="https://github.com/jpatter/ML-POT/blob/master/Lab-3/images/DSX-ML-CreateNotebook.PNG"/>
-
-1. Click the `From URL` tab under `Create Notebook`.
-1. Give the notebook a name in the `Name` field, for example `PCA` and optionally you can give it a description.
-1. In the Notebook URL field, use `https://raw.githubusercontent.com/jpatter/ML-POT/master/Lab-3/PCA-student.ipynb`.
-1. Ensure that there is a `Spark Service` selected, then click the `Create Notebook` button on the bottom right of the screen.
-
-### Step 4.  Follow the instructions in the notebook.
-
-> <img src="https://github.com/jpatter/ML-POT/blob/master/Lab-3/images/DSX-ML-Lab-3.PNG"/>
