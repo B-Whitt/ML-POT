@@ -4,7 +4,7 @@
 
 [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/DSX.png" height="150"/>](http://datascience.ibm.com/) 
 
-This lab features the new Watson Studio Neural Network modeler, and Experiment Assistant to build, train, and test a Convolutional Neural Network to classify images. The dataset used is the CIFAR-10 dataset (Canadian Institute For Advanced Research) is a collection of images that are commonly used to train machine learning and computer vision algorithms. 
+This lab features the new Watson Studio Neural Network modeler, and Experiment Assistant to build, train, and test a Convolutional Neural Network to classify images. The dataset used is the CIFAR-10 dataset (Canadian Institute For Advanced Research), a collection of images that are commonly used to train machine learning and computer vision algorithms. 
 
 ## Objectives:
 
