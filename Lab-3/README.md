@@ -12,7 +12,7 @@ Upon completing the lab, you will:
 
 1. Set up data for the neural network modeler
 1. Become familiar with the neural network modeler  
-1. Become familiar with the Experiement Assistant
+1. Become familiar with the Experiment Assistant
 1. Train and deploy a neural network model
 1. Classify images
 
